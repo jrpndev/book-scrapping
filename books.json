@@ -1,0 +1,401 @@
+﻿[
+  {
+    "Title": "It\u0026#39;s Only the Himalayas",
+    "Price": 45.17,
+    "Rating": 2,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
+  },
+  {
+    "Title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+    "Price": 49.43,
+    "Rating": 4,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html"
+  },
+  {
+    "Title": "See America: A Celebration of Our National Parks \u0026amp; Treasured Sites",
+    "Price": 48.87,
+    "Rating": 3,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html"
+  },
+  {
+    "Title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+    "Price": 36.94,
+    "Rating": 2,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html"
+  },
+  {
+    "Title": "Under the Tuscan Sun",
+    "Price": 37.33,
+    "Rating": 3,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html"
+  },
+  {
+    "Title": "A Summer In Europe",
+    "Price": 44.34,
+    "Rating": 2,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html"
+  },
+  {
+    "Title": "The Great Railway Bazaar",
+    "Price": 30.54,
+    "Rating": 1,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html"
+  },
+  {
+    "Title": "A Year in Provence (Provence #1)",
+    "Price": 56.88,
+    "Rating": 4,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html"
+  },
+  {
+    "Title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+    "Price": 23.21,
+    "Rating": 1,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html"
+  },
+  {
+    "Title": "Neither Here nor There: Travels in Europe",
+    "Price": 38.95,
+    "Rating": 3,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html"
+  },
+  {
+    "Title": "1,000 Places to See Before You Die",
+    "Price": 26.08,
+    "Rating": 5,
+    "Category": "Travel",
+    "Url": "https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html"
+  },
+  {
+    "Title": "Sharp Objects",
+    "Price": 47.82,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "Title": "In a Dark, Dark Wood",
+    "Price": 19.63,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html"
+  },
+  {
+    "Title": "The Past Never Ends",
+    "Price": 56.50,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html"
+  },
+  {
+    "Title": "A Murder in Time",
+    "Price": 16.64,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html"
+  },
+  {
+    "Title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+    "Price": 44.10,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html"
+  },
+  {
+    "Title": "The Last Mile (Amos Decker #2)",
+    "Price": 54.21,
+    "Rating": 2,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html"
+  },
+  {
+    "Title": "That Darkness (Gardiner and Renner #1)",
+    "Price": 13.92,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html"
+  },
+  {
+    "Title": "Tastes Like Fear (DI Marnie Rome #3)",
+    "Price": 10.69,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html"
+  },
+  {
+    "Title": "A Time of Torment (Charlie Parker #14)",
+    "Price": 48.35,
+    "Rating": 5,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html"
+  },
+  {
+    "Title": "A Study in Scarlet (Sherlock Holmes #1)",
+    "Price": 16.73,
+    "Rating": 2,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html"
+  },
+  {
+    "Title": "Poisonous (Max Revere Novels #3)",
+    "Price": 26.80,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html"
+  },
+  {
+    "Title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+    "Price": 54.36,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html"
+  },
+  {
+    "Title": "Most Wanted",
+    "Price": 35.28,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/most-wanted_623/index.html"
+  },
+  {
+    "Title": "Hide Away (Eve Duncan #20)",
+    "Price": 11.84,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html"
+  },
+  {
+    "Title": "Boar Island (Anna Pigeon #19)",
+    "Price": 59.48,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html"
+  },
+  {
+    "Title": "The Widow",
+    "Price": 27.26,
+    "Rating": 2,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-widow_609/index.html"
+  },
+  {
+    "Title": "Playing with Fire",
+    "Price": 13.71,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html"
+  },
+  {
+    "Title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+    "Price": 25.37,
+    "Rating": 5,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html"
+  },
+  {
+    "Title": "The Bachelor Girl\u0026#39;s Guide to Murder (Herringford and Watts Mysteries #1)",
+    "Price": 52.30,
+    "Rating": 5,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html"
+  },
+  {
+    "Title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+    "Price": 20.89,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html"
+  },
+  {
+    "Title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+    "Price": 24.80,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html"
+  },
+  {
+    "Title": "In the Woods (Dublin Murder Squad #1)",
+    "Price": 38.38,
+    "Rating": 2,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html"
+  },
+  {
+    "Title": "The Silkworm (Cormoran Strike #2)",
+    "Price": 23.05,
+    "Rating": 5,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html"
+  },
+  {
+    "Title": "The Exiled",
+    "Price": 43.45,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-exiled_247/index.html"
+  },
+  {
+    "Title": "The Cuckoo\u0026#39;s Calling (Cormoran Strike #1)",
+    "Price": 19.21,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html"
+  },
+  {
+    "Title": "Extreme Prey (Lucas Davenport #26)",
+    "Price": 25.40,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html"
+  },
+  {
+    "Title": "Career of Evil (Cormoran Strike #3)",
+    "Price": 24.72,
+    "Rating": 2,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html"
+  },
+  {
+    "Title": "The No. 1 Ladies\u0026#39; Detective Agency (No. 1 Ladies\u0026#39; Detective Agency #1)",
+    "Price": 57.70,
+    "Rating": 4,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html"
+  },
+  {
+    "Title": "The Girl You Lost",
+    "Price": 12.29,
+    "Rating": 5,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html"
+  },
+  {
+    "Title": "The Girl In The Ice (DCI Erika Foster #1)",
+    "Price": 15.85,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html"
+  },
+  {
+    "Title": "Blood Defense (Samantha Brinkman #1)",
+    "Price": 20.30,
+    "Rating": 3,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html"
+  },
+  {
+    "Title": "1st to Die (Women\u0026#39;s Murder Club #1)",
+    "Price": 53.98,
+    "Rating": 1,
+    "Category": "Mystery",
+    "Url": "https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html"
+  },
+  {
+    "Title": "The Most Perfect Thing: Inside (and Outside) a Bird\u0026#39;s Egg",
+    "Price": 42.96,
+    "Rating": 4,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html"
+  },
+  {
+    "Title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "Price": 57.36,
+    "Rating": 5,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html"
+  },
+  {
+    "Title": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+    "Price": 44.74,
+    "Rating": 4,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html"
+  },
+  {
+    "Title": "Tipping Point for Planet Earth: How Close Are We to the Edge?",
+    "Price": 37.55,
+    "Rating": 1,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html"
+  },
+  {
+    "Title": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+    "Price": 55.91,
+    "Rating": 1,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html"
+  },
+  {
+    "Title": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+    "Price": 28.41,
+    "Rating": 1,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html"
+  },
+  {
+    "Title": "The Origin of Species",
+    "Price": 10.01,
+    "Rating": 4,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html"
+  },
+  {
+    "Title": "The Grand Design",
+    "Price": 13.76,
+    "Rating": 3,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-grand-design_405/index.html"
+  },
+  {
+    "Title": "Peak: Secrets from the New Science of Expertise",
+    "Price": 16.28,
+    "Rating": 2,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html"
+  },
+  {
+    "Title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+    "Price": 13.03,
+    "Rating": 4,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html"
+  },
+  {
+    "Title": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+    "Price": 57.35,
+    "Rating": 5,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html"
+  },
+  {
+    "Title": "Surely You\u0026#39;re Joking, Mr. Feynman!: Adventures of a Curious Character",
+    "Price": 25.83,
+    "Rating": 2,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html"
+  },
+  {
+    "Title": "Seven Brief Lessons on Physics",
+    "Price": 30.60,
+    "Rating": 4,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html"
+  },
+  {
+    "Title": "The Selfish Gene",
+    "Price": 29.45,
+    "Rating": 1,
+    "Category": "Science",
+    "Url": "https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html"
+  }
+]

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>It&amp;#39;s Only the Himalayas</Title>
+    <Price>45.17</Price>
+    <Rating>2</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond</Title>
+    <Price>49.43</Price>
+    <Rating>4</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html</Url>
+  </Book>
+  <Book>
+    <Title>See America: A Celebration of Our National Parks &amp;amp; Treasured Sites</Title>
+    <Price>48.87</Price>
+    <Rating>3</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</Title>
+    <Price>36.94</Price>
+    <Rating>2</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Under the Tuscan Sun</Title>
+    <Price>37.33</Price>
+    <Rating>3</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Summer In Europe</Title>
+    <Price>44.34</Price>
+    <Rating>2</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Great Railway Bazaar</Title>
+    <Price>30.54</Price>
+    <Rating>1</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Year in Provence (Provence #1)</Title>
+    <Price>56.88</Price>
+    <Rating>4</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)</Title>
+    <Price>23.21</Price>
+    <Rating>1</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Neither Here nor There: Travels in Europe</Title>
+    <Price>38.95</Price>
+    <Rating>3</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html</Url>
+  </Book>
+  <Book>
+    <Title>1,000 Places to See Before You Die</Title>
+    <Price>26.08</Price>
+    <Rating>5</Rating>
+    <Category>Travel</Category>
+    <Url>https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Sharp Objects</Title>
+    <Price>47.82</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/sharp-objects_997/index.html</Url>
+  </Book>
+  <Book>
+    <Title>In a Dark, Dark Wood</Title>
+    <Price>19.63</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Past Never Ends</Title>
+    <Price>56.50</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Murder in Time</Title>
+    <Price>16.64</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Murder of Roger Ackroyd (Hercule Poirot #4)</Title>
+    <Price>44.10</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Last Mile (Amos Decker #2)</Title>
+    <Price>54.21</Price>
+    <Rating>2</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html</Url>
+  </Book>
+  <Book>
+    <Title>That Darkness (Gardiner and Renner #1)</Title>
+    <Price>13.92</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Tastes Like Fear (DI Marnie Rome #3)</Title>
+    <Price>10.69</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Time of Torment (Charlie Parker #14)</Title>
+    <Price>48.35</Price>
+    <Rating>5</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Study in Scarlet (Sherlock Holmes #1)</Title>
+    <Price>16.73</Price>
+    <Rating>2</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Poisonous (Max Revere Novels #3)</Title>
+    <Price>26.80</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Murder at the 42nd Street Library (Raymond Ambler #1)</Title>
+    <Price>54.36</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Most Wanted</Title>
+    <Price>35.28</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/most-wanted_623/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Hide Away (Eve Duncan #20)</Title>
+    <Price>11.84</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Boar Island (Anna Pigeon #19)</Title>
+    <Price>59.48</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Widow</Title>
+    <Price>27.26</Price>
+    <Rating>2</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-widow_609/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Playing with Fire</Title>
+    <Price>13.71</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/playing-with-fire_602/index.html</Url>
+  </Book>
+  <Book>
+    <Title>What Happened on Beale Street (Secrets of the South Mysteries #2)</Title>
+    <Price>25.37</Price>
+    <Rating>5</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Bachelor Girl&amp;#39;s Guide to Murder (Herringford and Watts Mysteries #1)</Title>
+    <Price>52.30</Price>
+    <Rating>5</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Delivering the Truth (Quaker Midwife Mystery #1)</Title>
+    <Price>20.89</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Mysterious Affair at Styles (Hercule Poirot #1)</Title>
+    <Price>24.80</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html</Url>
+  </Book>
+  <Book>
+    <Title>In the Woods (Dublin Murder Squad #1)</Title>
+    <Price>38.38</Price>
+    <Rating>2</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Silkworm (Cormoran Strike #2)</Title>
+    <Price>23.05</Price>
+    <Rating>5</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Exiled</Title>
+    <Price>43.45</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-exiled_247/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Cuckoo&amp;#39;s Calling (Cormoran Strike #1)</Title>
+    <Price>19.21</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Extreme Prey (Lucas Davenport #26)</Title>
+    <Price>25.40</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/extreme-prey-lucas-davenport-26_154/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Career of Evil (Cormoran Strike #3)</Title>
+    <Price>24.72</Price>
+    <Rating>2</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/career-of-evil-cormoran-strike-3_137/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The No. 1 Ladies&amp;#39; Detective Agency (No. 1 Ladies&amp;#39; Detective Agency #1)</Title>
+    <Price>57.70</Price>
+    <Rating>4</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Girl You Lost</Title>
+    <Price>12.29</Price>
+    <Rating>5</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-girl-you-lost_66/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Girl In The Ice (DCI Erika Foster #1)</Title>
+    <Price>15.85</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/the-girl-in-the-ice-dci-erika-foster-1_65/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Blood Defense (Samantha Brinkman #1)</Title>
+    <Price>20.30</Price>
+    <Rating>3</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/blood-defense-samantha-brinkman-1_8/index.html</Url>
+  </Book>
+  <Book>
+    <Title>1st to Die (Women&amp;#39;s Murder Club #1)</Title>
+    <Price>53.98</Price>
+    <Rating>1</Rating>
+    <Category>Mystery</Category>
+    <Url>https://books.toscrape.com/catalogue/1st-to-die-womens-murder-club-1_2/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Most Perfect Thing: Inside (and Outside) a Bird&amp;#39;s Egg</Title>
+    <Price>42.96</Price>
+    <Rating>4</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine</Title>
+    <Price>57.36</Price>
+    <Rating>5</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Sorting the Beef from the Bull: The Science of Food Fraud Forensics</Title>
+    <Price>44.74</Price>
+    <Rating>4</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Tipping Point for Planet Earth: How Close Are We to the Edge?</Title>
+    <Price>37.55</Price>
+    <Rating>1</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Fabric of the Cosmos: Space, Time, and the Texture of Reality</Title>
+    <Price>55.91</Price>
+    <Rating>1</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World</Title>
+    <Price>28.41</Price>
+    <Rating>1</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Origin of Species</Title>
+    <Price>10.01</Price>
+    <Rating>4</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-origin-of-species_499/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Grand Design</Title>
+    <Price>13.76</Price>
+    <Rating>3</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-grand-design_405/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Peak: Secrets from the New Science of Expertise</Title>
+    <Price>16.28</Price>
+    <Rating>2</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/peak-secrets-from-the-new-science-of-expertise_389/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory</Title>
+    <Price>13.03</Price>
+    <Rating>4</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements</Title>
+    <Price>57.35</Price>
+    <Rating>5</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Surely You&amp;#39;re Joking, Mr. Feynman!: Adventures of a Curious Character</Title>
+    <Price>25.83</Price>
+    <Rating>2</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Seven Brief Lessons on Physics</Title>
+    <Price>30.60</Price>
+    <Rating>4</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/seven-brief-lessons-on-physics_219/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Selfish Gene</Title>
+    <Price>29.45</Price>
+    <Rating>1</Rating>
+    <Category>Science</Category>
+    <Url>https://books.toscrape.com/catalogue/the-selfish-gene_81/index.html</Url>
+  </Book>
+</ArrayOfBook>
