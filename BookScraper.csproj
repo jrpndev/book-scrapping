@@ -17,10 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="appsettings.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="README.md" />
   </ItemGroup>
+  
 
 </Project>

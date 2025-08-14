@@ -14,6 +14,18 @@ var configuration = new ConfigurationBuilder()
     .AddEnvironmentVariables(prefix: "BOOKSCRAPER_")
     .AddCommandLine(args)
     .Build();
+    
+Console.WriteLine("Current directory: " + Directory.GetCurrentDirectory());
+
+Console.WriteLine("Files in current directory:");
+foreach (var file in Directory.GetFiles(Directory.GetCurrentDirectory()))
+{
+    Console.WriteLine(" - " + Path.GetFileName(file));
+}
+
+var cats = configuration.GetSection("Scraper:Categories").Get<string[]>();
+
+Console.WriteLine("Categories from config: " + string.Join(", ", cats ?? Array.Empty<string>()));
 
 var options = ScraperOptions.FromConfiguration(configuration);
 

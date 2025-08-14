@@ -52,7 +52,9 @@ public sealed class BookScraperService
                     map[name] = href;
                 }
             }
+        
         }
+        //Console.WriteLine(string.Join(Environment.NewLine, map.Select(kvp => $"{kvp.Key} => {kvp.Value}")));
         return map;
     }
 

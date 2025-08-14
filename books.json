@@ -1,80 +1,248 @@
 ﻿[
   {
-    "Title": "It\u0026#39;s Only the Himalayas",
-    "Price": 45.17,
-    "Rating": 2,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
-  },
-  {
-    "Title": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
-    "Price": 49.43,
-    "Rating": 4,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html"
-  },
-  {
-    "Title": "See America: A Celebration of Our National Parks \u0026amp; Treasured Sites",
-    "Price": 48.87,
-    "Rating": 3,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html"
-  },
-  {
-    "Title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
-    "Price": 36.94,
-    "Rating": 2,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html"
-  },
-  {
-    "Title": "Under the Tuscan Sun",
-    "Price": 37.33,
-    "Rating": 3,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html"
-  },
-  {
-    "Title": "A Summer In Europe",
-    "Price": 44.34,
-    "Rating": 2,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html"
-  },
-  {
-    "Title": "The Great Railway Bazaar",
-    "Price": 30.54,
-    "Rating": 1,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html"
-  },
-  {
-    "Title": "A Year in Provence (Provence #1)",
-    "Price": 56.88,
-    "Rating": 4,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html"
-  },
-  {
-    "Title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
-    "Price": 23.21,
-    "Rating": 1,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html"
-  },
-  {
-    "Title": "Neither Here nor There: Travels in Europe",
-    "Price": 38.95,
-    "Rating": 3,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html"
-  },
-  {
-    "Title": "1,000 Places to See Before You Die",
-    "Price": 26.08,
+    "Title": "Chase Me (Paris Nights #2)",
+    "Price": 25.27,
     "Rating": 5,
-    "Category": "Travel",
-    "Url": "https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html"
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
+  },
+  {
+    "Title": "Black Dust",
+    "Price": 34.53,
+    "Rating": 5,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/black-dust_976/index.html"
+  },
+  {
+    "Title": "Her Backup Boyfriend (The Sorensen Family #1)",
+    "Price": 33.97,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html"
+  },
+  {
+    "Title": "First and First (Five Boroughs #3)",
+    "Price": 15.97,
+    "Rating": 4,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html"
+  },
+  {
+    "Title": "Fifty Shades Darker (Fifty Shades #2)",
+    "Price": 21.96,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html"
+  },
+  {
+    "Title": "The Wedding Dress",
+    "Price": 24.12,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html"
+  },
+  {
+    "Title": "Suddenly in Love (Lake Haven #1)",
+    "Price": 55.99,
+    "Rating": 2,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html"
+  },
+  {
+    "Title": "Something More Than This",
+    "Price": 16.24,
+    "Rating": 4,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/something-more-than-this_834/index.html"
+  },
+  {
+    "Title": "Doing It Over (Most Likely To #1)",
+    "Price": 35.61,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html"
+  },
+  {
+    "Title": "The Wedding Pact (The O\u0026#39;Malleys #2)",
+    "Price": 32.61,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html"
+  },
+  {
+    "Title": "Hold Your Breath (Search and Rescue #1)",
+    "Price": 28.82,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/hold-your-breath-search-and-rescue-1_700/index.html"
+  },
+  {
+    "Title": "Dirty (Dive Bar #1)",
+    "Price": 40.83,
+    "Rating": 4,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/dirty-dive-bar-1_615/index.html"
+  },
+  {
+    "Title": "Take Me Home Tonight (Rock Star Romance #3)",
+    "Price": 53.98,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html"
+  },
+  {
+    "Title": "Off the Hook (Fishing for Trouble #1)",
+    "Price": 47.67,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/off-the-hook-fishing-for-trouble-1_601/index.html"
+  },
+  {
+    "Title": "A Gentleman\u0026#39;s Position (Society of Gentlemen #3)",
+    "Price": 14.75,
+    "Rating": 5,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html"
+  },
+  {
+    "Title": "Sit, Stay, Love",
+    "Price": 20.90,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/sit-stay-love_486/index.html"
+  },
+  {
+    "Title": "A Girl\u0026#39;s Guide to Moving On (New Beginnings #2)",
+    "Price": 31.30,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/a-girls-guide-to-moving-on-new-beginnings-2_359/index.html"
+  },
+  {
+    "Title": "The Perfect Play (Play by Play #1)",
+    "Price": 59.99,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html"
+  },
+  {
+    "Title": "Dark Lover (Black Dagger Brotherhood #1)",
+    "Price": 12.87,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/dark-lover-black-dagger-brotherhood-1_319/index.html"
+  },
+  {
+    "Title": "Changing the Game (Play by Play #2)",
+    "Price": 13.38,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/changing-the-game-play-by-play-2_317/index.html"
+  },
+  {
+    "Title": "A Walk to Remember",
+    "Price": 56.43,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/a-walk-to-remember_312/index.html"
+  },
+  {
+    "Title": "The Purest Hook (Second Circle Tattoos #3)",
+    "Price": 12.25,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/the-purest-hook-second-circle-tattoos-3_271/index.html"
+  },
+  {
+    "Title": "The Obsession",
+    "Price": 45.43,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/the-obsession_268/index.html"
+  },
+  {
+    "Title": "Reservations for Two",
+    "Price": 11.10,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/reservations-for-two_211/index.html"
+  },
+  {
+    "Title": "Best of My Love (Fool\u0026#39;s Gold #20)",
+    "Price": 27.41,
+    "Rating": 2,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/best-of-my-love-fools-gold-20_127/index.html"
+  },
+  {
+    "Title": "Where Lightning Strikes (Bleeding Stars #3)",
+    "Price": 39.77,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/where-lightning-strikes-bleeding-stars-3_96/index.html"
+  },
+  {
+    "Title": "This One Moment (Pushing Limits #1)",
+    "Price": 48.71,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/this-one-moment-pushing-limits-1_88/index.html"
+  },
+  {
+    "Title": "Rhythm, Chord \u0026amp; Malykhin",
+    "Price": 28.34,
+    "Rating": 2,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/rhythm-chord-malykhin_47/index.html"
+  },
+  {
+    "Title": "My Perfect Mistake (Over the Top #1)",
+    "Price": 38.92,
+    "Rating": 2,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/my-perfect-mistake-over-the-top-1_35/index.html"
+  },
+  {
+    "Title": "Listen to Me (Fusion #1)",
+    "Price": 58.99,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/listen-to-me-fusion-1_29/index.html"
+  },
+  {
+    "Title": "Imperfect Harmony",
+    "Price": 34.74,
+    "Rating": 4,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/imperfect-harmony_26/index.html"
+  },
+  {
+    "Title": "Fighting Fate (Fighting #6)",
+    "Price": 39.24,
+    "Rating": 3,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/fighting-fate-fighting-6_18/index.html"
+  },
+  {
+    "Title": "Deep Under (Walker Security #1)",
+    "Price": 47.09,
+    "Rating": 5,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/deep-under-walker-security-1_15/index.html"
+  },
+  {
+    "Title": "Charity\u0026#39;s Cross (Charles Towne Belles #4)",
+    "Price": 41.24,
+    "Rating": 1,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/charitys-cross-charles-towne-belles-4_12/index.html"
+  },
+  {
+    "Title": "Bounty (Colorado Mountain #7)",
+    "Price": 37.26,
+    "Rating": 4,
+    "Category": "Romance",
+    "Url": "https://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html"
   },
   {
     "Title": "Sharp Objects",

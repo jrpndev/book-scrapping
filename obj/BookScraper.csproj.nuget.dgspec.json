@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jrpncodes/book-scraper/BookScraper.csproj": {}
+    "/home/jose/book-scrapping/BookScraper.csproj": {}
   },
   "projects": {
-    "/home/jrpncodes/book-scraper/BookScraper.csproj": {
+    "/home/jose/book-scrapping/BookScraper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jrpncodes/book-scraper/BookScraper.csproj",
+        "projectUniqueName": "/home/jose/book-scrapping/BookScraper.csproj",
         "projectName": "BookScraper",
-        "projectPath": "/home/jrpncodes/book-scraper/BookScraper.csproj",
-        "packagesPath": "/home/jrpncodes/.nuget/packages/",
-        "outputPath": "/home/jrpncodes/book-scraper/obj/",
+        "projectPath": "/home/jose/book-scrapping/BookScraper.csproj",
+        "packagesPath": "/home/jose/.nuget/packages/",
+        "outputPath": "/home/jose/book-scrapping/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jrpncodes/.nuget/NuGet/NuGet.Config"
+          "/home/jose/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

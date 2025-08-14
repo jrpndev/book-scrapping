@@ -1,81 +1,249 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Book>
-    <Title>It&amp;#39;s Only the Himalayas</Title>
-    <Price>45.17</Price>
-    <Rating>2</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html</Url>
-  </Book>
-  <Book>
-    <Title>Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond</Title>
-    <Price>49.43</Price>
-    <Rating>4</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html</Url>
-  </Book>
-  <Book>
-    <Title>See America: A Celebration of Our National Parks &amp;amp; Treasured Sites</Title>
-    <Price>48.87</Price>
-    <Rating>3</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html</Url>
-  </Book>
-  <Book>
-    <Title>Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel</Title>
-    <Price>36.94</Price>
-    <Rating>2</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html</Url>
-  </Book>
-  <Book>
-    <Title>Under the Tuscan Sun</Title>
-    <Price>37.33</Price>
-    <Rating>3</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html</Url>
-  </Book>
-  <Book>
-    <Title>A Summer In Europe</Title>
-    <Price>44.34</Price>
-    <Rating>2</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html</Url>
-  </Book>
-  <Book>
-    <Title>The Great Railway Bazaar</Title>
-    <Price>30.54</Price>
-    <Rating>1</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html</Url>
-  </Book>
-  <Book>
-    <Title>A Year in Provence (Provence #1)</Title>
-    <Price>56.88</Price>
-    <Rating>4</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html</Url>
-  </Book>
-  <Book>
-    <Title>The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)</Title>
-    <Price>23.21</Price>
-    <Rating>1</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html</Url>
-  </Book>
-  <Book>
-    <Title>Neither Here nor There: Travels in Europe</Title>
-    <Price>38.95</Price>
-    <Rating>3</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html</Url>
-  </Book>
-  <Book>
-    <Title>1,000 Places to See Before You Die</Title>
-    <Price>26.08</Price>
+    <Title>Chase Me (Paris Nights #2)</Title>
+    <Price>25.27</Price>
     <Rating>5</Rating>
-    <Category>Travel</Category>
-    <Url>https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html</Url>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Black Dust</Title>
+    <Price>34.53</Price>
+    <Rating>5</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/black-dust_976/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Her Backup Boyfriend (The Sorensen Family #1)</Title>
+    <Price>33.97</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html</Url>
+  </Book>
+  <Book>
+    <Title>First and First (Five Boroughs #3)</Title>
+    <Price>15.97</Price>
+    <Rating>4</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Fifty Shades Darker (Fifty Shades #2)</Title>
+    <Price>21.96</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Wedding Dress</Title>
+    <Price>24.12</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Suddenly in Love (Lake Haven #1)</Title>
+    <Price>55.99</Price>
+    <Rating>2</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Something More Than This</Title>
+    <Price>16.24</Price>
+    <Rating>4</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/something-more-than-this_834/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Doing It Over (Most Likely To #1)</Title>
+    <Price>35.61</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/doing-it-over-most-likely-to-1_802/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Wedding Pact (The O&amp;#39;Malleys #2)</Title>
+    <Price>32.61</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Hold Your Breath (Search and Rescue #1)</Title>
+    <Price>28.82</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/hold-your-breath-search-and-rescue-1_700/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Dirty (Dive Bar #1)</Title>
+    <Price>40.83</Price>
+    <Rating>4</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/dirty-dive-bar-1_615/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Take Me Home Tonight (Rock Star Romance #3)</Title>
+    <Price>53.98</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/take-me-home-tonight-rock-star-romance-3_605/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Off the Hook (Fishing for Trouble #1)</Title>
+    <Price>47.67</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/off-the-hook-fishing-for-trouble-1_601/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Gentleman&amp;#39;s Position (Society of Gentlemen #3)</Title>
+    <Price>14.75</Price>
+    <Rating>5</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/a-gentlemans-position-society-of-gentlemen-3_584/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Sit, Stay, Love</Title>
+    <Price>20.90</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/sit-stay-love_486/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Girl&amp;#39;s Guide to Moving On (New Beginnings #2)</Title>
+    <Price>31.30</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/a-girls-guide-to-moving-on-new-beginnings-2_359/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Perfect Play (Play by Play #1)</Title>
+    <Price>59.99</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Dark Lover (Black Dagger Brotherhood #1)</Title>
+    <Price>12.87</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/dark-lover-black-dagger-brotherhood-1_319/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Changing the Game (Play by Play #2)</Title>
+    <Price>13.38</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/changing-the-game-play-by-play-2_317/index.html</Url>
+  </Book>
+  <Book>
+    <Title>A Walk to Remember</Title>
+    <Price>56.43</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/a-walk-to-remember_312/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Purest Hook (Second Circle Tattoos #3)</Title>
+    <Price>12.25</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/the-purest-hook-second-circle-tattoos-3_271/index.html</Url>
+  </Book>
+  <Book>
+    <Title>The Obsession</Title>
+    <Price>45.43</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/the-obsession_268/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Reservations for Two</Title>
+    <Price>11.10</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/reservations-for-two_211/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Best of My Love (Fool&amp;#39;s Gold #20)</Title>
+    <Price>27.41</Price>
+    <Rating>2</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/best-of-my-love-fools-gold-20_127/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Where Lightning Strikes (Bleeding Stars #3)</Title>
+    <Price>39.77</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/where-lightning-strikes-bleeding-stars-3_96/index.html</Url>
+  </Book>
+  <Book>
+    <Title>This One Moment (Pushing Limits #1)</Title>
+    <Price>48.71</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/this-one-moment-pushing-limits-1_88/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Rhythm, Chord &amp;amp; Malykhin</Title>
+    <Price>28.34</Price>
+    <Rating>2</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/rhythm-chord-malykhin_47/index.html</Url>
+  </Book>
+  <Book>
+    <Title>My Perfect Mistake (Over the Top #1)</Title>
+    <Price>38.92</Price>
+    <Rating>2</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/my-perfect-mistake-over-the-top-1_35/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Listen to Me (Fusion #1)</Title>
+    <Price>58.99</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/listen-to-me-fusion-1_29/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Imperfect Harmony</Title>
+    <Price>34.74</Price>
+    <Rating>4</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/imperfect-harmony_26/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Fighting Fate (Fighting #6)</Title>
+    <Price>39.24</Price>
+    <Rating>3</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/fighting-fate-fighting-6_18/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Deep Under (Walker Security #1)</Title>
+    <Price>47.09</Price>
+    <Rating>5</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/deep-under-walker-security-1_15/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Charity&amp;#39;s Cross (Charles Towne Belles #4)</Title>
+    <Price>41.24</Price>
+    <Rating>1</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/charitys-cross-charles-towne-belles-4_12/index.html</Url>
+  </Book>
+  <Book>
+    <Title>Bounty (Colorado Mountain #7)</Title>
+    <Price>37.26</Price>
+    <Rating>4</Rating>
+    <Category>Romance</Category>
+    <Url>https://books.toscrape.com/catalogue/bounty-colorado-mountain-7_9/index.html</Url>
   </Book>
   <Book>
     <Title>Sharp Objects</Title>
